@@ -14,4 +14,5 @@ Full-time software developer, open-source contributor. Founder of **[Aether AI](
 🤖 [Agent](https://github.com/DBarr3/aether-agent) — terminal · ☁️ Cloud — [desktop](https://aethersystems.net)
 
 **CyberSecurity:** [predator](https://aethersystems.net/defense-stack#defense-stack) 💻 Ghost MTD
+
 **Also founded:** 🥗 [FoodTrackers.org](https://foodtrackers.org) — fitness & meal planning
